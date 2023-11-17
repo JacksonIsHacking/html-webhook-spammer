@@ -20,6 +20,6 @@
 If you would like to contribute to the project please open a PR (Pull Request) clearly showing your changes.
 
 ## Extra
-__Created by JacksonIsHacking_
+_Created by JacksonIsHacking_
 * [Website](jacksonishacking.github.io)
 </br>
