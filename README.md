@@ -19,6 +19,6 @@
 ## Contribute
 If you would like to contribute to the project please open a PR (Pull Request) clearly showing your changes.
 
-<p>
-<p>
+
+## Credits
 _Created by JacksonIsHacking_
