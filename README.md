@@ -3,11 +3,7 @@
     Discord Webhook Spammer
     <br>
 <h1>
-<p align="center">
-    <a href="https://github.com/papasnags/Discord-Webhook-Spammer/releases">
-        <img alt="GitHub release" src="https://img.shields.io/github/release/PapaSnags/Discord-Webhook-Spammer.svg">
-    </a>
-</p>
+
 
 ## Features 
 * Set Webhook Username
