@@ -2,7 +2,7 @@
   "name": "discord-webhook-spammer",
   "productName": "discord-webhook-spammer",
   "version": "1.0.0",
-  "description": "Made by PapaSnags#1555",
+  "description": "Made by  JacksonIsHacking",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -13,8 +13,7 @@
   },
   "keywords": [],
   "author": {
-    "name": "PapaSnags",
-    "email": "mail@papa-snags.com"
+    "name": " JacksonIsHacking",
   },
   "license": "MIT",
   "config": {
