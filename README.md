@@ -1,7 +1,5 @@
 <h1 align="center">
-    <br>
-    Discord Webhook Spammer
-    <br>
+    Made By JacksonIsHacking
 <h1>
 
 
@@ -10,8 +8,6 @@
 * Set Webhook Avatar
 * Set Webhook Body (Message)
 
-## Preview
-<img src="https://i.imgur.com/UbOQUwz.png">
 
 # Usage
 * Download the latest release.
