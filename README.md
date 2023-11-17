@@ -11,7 +11,7 @@
 
 # Usage
 * Download the latest release.
-* Open 'src' file
+* Open src file
 * open index.html
 * Set the webhook URL, Username, Avatar and message
 * Click Send
